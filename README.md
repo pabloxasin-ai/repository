@@ -61,5 +61,5 @@ Para la visualización del DashBoard ingresamos a la siguiente dirección http:/
 ----
 
 ## Autores
-Ingeniero en Sistemas Pablo Sinchiguano
-Ingeniero Electrónico Henry Toapanta
+-  Ingeniero en Sistemas Pablo Sinchiguano, 
+-  Ingeniero Electrónico Henry Toapanta
